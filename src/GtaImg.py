@@ -7,7 +7,7 @@ from   tkinter import ttk as tr
 
 class Application:
     title    = 'GtaImg'
-    usageUrl = 'https://giacomoiengo.github.io/gtaimg-usage/'
+    usageUrl = 'https://giacomoiengo.github.io/2020/gtaimg-usage/'
 
     def __init__(self):
         self.__widgetSetup()
