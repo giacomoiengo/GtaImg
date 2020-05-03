@@ -1,5 +1,8 @@
 # GtaImg
-Yet another Gta San Andreas' img file editor, but it's open! XD...
+### Yet another Gta San Andreas' img file editor, but it's open! XD...
+
+![Screenshot](https://raw.githubusercontent.com/giacomoiengo/GtaImg/master/screenshot.png)
+
 ### Requirements
 - `Tkinter`
 ### Run
